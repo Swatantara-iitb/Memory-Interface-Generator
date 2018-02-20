@@ -1,0 +1,1 @@
+The document folder contains the description of the interface. The bridge_design contains the vhdl files , ahir-system, bridge, and a top entity that combines these two. The vhdl testbench is used to check the design. It maintains the timing protocols mentioned in the mig manual.
