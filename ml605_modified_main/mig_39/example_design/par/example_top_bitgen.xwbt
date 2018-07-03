@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/ahir/mig_final7/ml605_MIG_rdf0011_13.4_c/ml605_prebuilt_example_design/mig_39/example_design/par/example_top.ncd
+OUTFILE=/home/ahir/mig_final7/ml605_MIG_rdf0011_13.4_c/ml605_prebuilt_example_design/mig_39/example_design/par/example_top.bit
+FAMILY=Virtex6
+PART=xc6vlx240t-1ff1156
+WORKINGDIR=/home/ahir/mig_final7/ml605_MIG_rdf0011_13.4_c/ml605_prebuilt_example_design/mig_39/example_design/par
+LICENSE=ISE
+USER_INFO=210863791_1777519043_210637627_226

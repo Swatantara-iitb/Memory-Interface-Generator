@@ -1,0 +1,10 @@
+# Output products list for <ila384_8>
+ila384_8.asy
+ila384_8.cdc
+ila384_8.gise
+ila384_8.ngc
+ila384_8.xco
+ila384_8.xise
+ila384_8_flist.txt
+ila384_8_readme.txt
+ila384_8_xmdf.tcl
