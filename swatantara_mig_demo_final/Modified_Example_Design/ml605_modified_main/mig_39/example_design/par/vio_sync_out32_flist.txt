@@ -1,0 +1,10 @@
+# Output products list for <vio_sync_out32>
+vio_sync_out32.asy
+vio_sync_out32.cdc
+vio_sync_out32.gise
+vio_sync_out32.ngc
+vio_sync_out32.xco
+vio_sync_out32.xise
+vio_sync_out32_flist.txt
+vio_sync_out32_readme.txt
+vio_sync_out32_xmdf.tcl
