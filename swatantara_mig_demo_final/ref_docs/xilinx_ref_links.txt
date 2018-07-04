@@ -1,0 +1,13 @@
+
+Note by Swatantara Chakraborty, 
+Under Prof. Madhav P. Desai 
+Jul 4, 2018
+
+The following are xilinx forum links which were used to solve some of the issued faced.
+1) https://forums.xilinx.com/t5/Memory-Interfaces/MIG-DDR3-example-design-init-calib-complete-never-goes-high/td-p/721154 
+2) https://www.xilinx.com/support/answers/34319.html
+3) https://www.xilinx.com/products/intellectual-property/mig.htm
+4) https://www.xilinx.com/products/intellectual-property/mig.htm
+5) www.instructables.com/id/Configuring-the-MIG-7-Series-to-Use-the-DDR-Memory/
+6) https://www.fpgarelated.com/groups/comp.arch.fpga/kw/MIG.php
+

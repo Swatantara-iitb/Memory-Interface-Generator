@@ -1,0 +1,10 @@
+Note by Swatantara chakraborty,
+July 4, 2018
+Under Prof. Madhav P. Desai
+
+
+
+Go to the ml605_modified_main/mig39/example_design/par
+Run the ise_flow.sh script to generate the example_top.bit
+Please make a note of all the lines commented //ML605 , those were the modifications to the existing design.
+
